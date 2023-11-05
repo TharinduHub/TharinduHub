@@ -8,8 +8,8 @@ My career goal is to continually engage in a dynamic and technically challenging
 
 ### My stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharinduhub&show_icons=true&include_all_commits=true&theme=shadow_blue" alt="GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharinduhub&&exclude_repo=tharinduhub&layout=compact&theme=shadow_blue" alt="languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharinduhub&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharinduhub&&exclude_repo=tharinduhub&layout=compact&theme=transparent" alt="languages"/>
 
 ### Wanna read my articles?
 
@@ -20,7 +20,14 @@ My career goal is to continually engage in a dynamic and technically challenging
 🔵 [LinkedIn](https://www.linkedin.com/in/tharindumadushanka/)
 🟠 [Stack Overflow](https://stackoverflow.com/users/9450900/tharindu-madushanka)
 
-
+<style>
+transparent: {
+    title_color: "006AFF",
+    icon_color: "0579C3",
+    text_color: "417E87",
+    bg_color: "ffffff00",
+  }
+</style>
 <!--
 **TharinduHub/TharinduHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
