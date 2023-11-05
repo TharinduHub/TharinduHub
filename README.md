@@ -33,30 +33,15 @@ My career goal is to continually engage in a dynamic and technically challenging
 </p>
 
 <p align="center">
-  <a>
-    <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="60px" alt="c" style="vertical-align:top; margin:4px;">
-  </a>
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
-  </a>
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
-  </a>  
-  <a>
-    <img src="https://www.svgrepo.com/show/372910/msql-server.svg" height="60px" alt="msql-server" style="vertical-align:top; margin:4px">
-  </a>
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" height="60px" alt="microsoft_azure" style="vertical-align:top; margin:4px">
-  </a>
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
-  </a>
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
-  </a>
-  <a>
-    <img src="https://seeklogo.com/images/M/microsoft-net-logo-631EFE744A-seeklogo.com.png" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
-  </a>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40px" margin="4px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40px" margin="4px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40px" margin="4px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40px" margin="4px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40px" margin="4px"/>     
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40px" margin="4px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40px" margin="4px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px" margin="4px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40px" margin="4px"/>
 </p>
 <br/>
 
