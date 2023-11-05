@@ -8,8 +8,8 @@ My career goal is to continually engage in a dynamic and technically challenging
 
 ### My stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharinduhub&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharinduhub&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharinduhub&show_icons=true&include_all_commits=true&theme=github_dark" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharinduhub&&exclude_repo=tharinduhub&layout=compact&theme=github_dark" alt="languages"/>
 
 ### Wanna read my articles?
 
