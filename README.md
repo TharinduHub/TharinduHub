@@ -33,28 +33,28 @@ My career goal is to continually engage in a dynamic and technically challenging
 </p>
 
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+  <a>
     <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="60px" alt="c" style="vertical-align:top; margin:4px;">
   </a>
-  <a href="https://angular.io">
+  <a>
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
   </a>
-  <a href="https://www.typescriptlang.org/">
+  <a>
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
   </a>  
-  <a href="https://www.microsoft.com/en-us/sql-server">
+  <a>
     <img src="https://www.svgrepo.com/show/372910/msql-server.svg" height="60px" alt="msql-server" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://azure.microsoft.com/en-us/">
+  <a>
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" height="60px" alt="microsoft_azure" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://hub.docker.com/">
+  <a>
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://www.git.com">
+  <a>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://dotnet.microsoft.com/">
+  <a>
     <img src="https://seeklogo.com/images/M/microsoft-net-logo-631EFE744A-seeklogo.com.png" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
 </p>
