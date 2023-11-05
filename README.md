@@ -1,5 +1,14 @@
 ## Well, hello there 👋
 
+<p align="left"> 
+ <a href="https://www.linkedin.com/in/tharindumadushanka" alt="tharindumadushanka's linkedin">
+   <img src="https://img.shields.io/badge/-tharindumadushanka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tharindumadushanka" />
+ </a>
+ <a href="https://stackoverflow.com/users/9450900/tharindu-madushanka" alt="tharindumadushanka's stack">
+   <img src="https://img.shields.io/badge/tharindumadushanka-orange?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/9450900/tharindu-madushanka" />
+ </a>
+</p>
+
 ### Who am I?
 
 I am a seasoned and dependable Software Engineer/Consultant with a proven track record spanning over a decade, starting in 2011. I possess strong management skills and a wealth of practical experience. I excel in collaborative environments, whether working within teams or alongside individuals, and I am equally comfortable assuming leadership roles to drive our collective success. I approach every task with enthusiasm and a commitment to meeting tight deadlines.
@@ -15,13 +24,50 @@ My career goal is to continually engage in a dynamic and technically challenging
 
 📚 [Medium](https://medium.com/@tharindumadushanka)
 
+---
+
+<p align="center"> 
+ <strong>
+  Professional skills
+  </strong>
+</p>
+
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+    <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="60px" alt="c" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://angular.io">
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
+  </a>  
+  <a href="https://www.microsoft.com/en-us/sql-server">
+    <img src="https://www.svgrepo.com/show/372910/msql-server.svg" height="60px" alt="msql-server" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://azure.microsoft.com/en-us/">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" height="60px" alt="microsoft_azure" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://hub.docker.com/">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.git.com">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://seeklogo.com/images/M/microsoft-net-logo-631EFE744A-seeklogo.com.png" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
+  </a>
+</p>
+<br/>
+
+<!--
 ### Wanna connect with me?
 
 🔵 [LinkedIn](https://www.linkedin.com/in/tharindumadushanka/)
 🟠 [Stack Overflow](https://stackoverflow.com/users/9450900/tharindu-madushanka)
 
 
-<!--
+
 **TharinduHub/TharinduHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
