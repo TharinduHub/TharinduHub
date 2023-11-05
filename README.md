@@ -20,14 +20,7 @@ My career goal is to continually engage in a dynamic and technically challenging
 🔵 [LinkedIn](https://www.linkedin.com/in/tharindumadushanka/)
 🟠 [Stack Overflow](https://stackoverflow.com/users/9450900/tharindu-madushanka)
 
-<style>
-transparent: {
-    title_color: "006AFF",
-    icon_color: "0579C3",
-    text_color: "417E87",
-    bg_color: "ffffff00",
-  }
-</style>
+
 <!--
 **TharinduHub/TharinduHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
