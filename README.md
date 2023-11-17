@@ -11,7 +11,9 @@
 
 ### Who am I?
 
-Decade-long software pro adept at full-stack engineering, delivering top-notch solutions with technical prowess and management finesse
+I am a seasoned Software Engineer with a proven track record spanning over a decade, commencing in 2011. My journey has equipped me with robust technical and management skills, making me a dependable professional in the industry. I excel as a full-stack engineer, specializing in the design, development, deployment, and troubleshooting of enterprise-grade software solutions.
+
+My proficiency extends across a spectrum of technologies, including C#, JavaScript, TypeScript, Angular, React, ASP.Net MVC / Core, Telerik, .Net Framework / Core, SQL Server, PostgreSQL, Azure, Kubernetes, Docker, Entity Framework, xUnit. I am dedicated to continual improvement and actively seek opportunities for professional growth, ensuring that I bring meaningful contributions to organizational success.
 
 ### My stats
 
