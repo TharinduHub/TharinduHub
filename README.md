@@ -11,9 +11,7 @@
 
 ### Who am I?
 
-I am a seasoned and dependable Software Engineer/Consultant with a proven track record spanning over a decade, starting in 2011. I possess strong management skills and a wealth of practical experience. I excel in collaborative environments, whether working within teams or alongside individuals, and I am equally comfortable assuming leadership roles to drive our collective success. I approach every task with enthusiasm and a commitment to meeting tight deadlines.
-
-My career goal is to continually engage in a dynamic and technically challenging software profession. I aspire to leverage my knowledge and expertise effectively, contributing to the growth and success of the organizations.
+Decade-long software pro adept at full-stack engineering, delivering top-notch solutions with technical prowess and management finesse
 
 ### My stats
 
