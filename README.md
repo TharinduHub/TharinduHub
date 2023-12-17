@@ -17,7 +17,7 @@ My proficiency extends across a spectrum of technologies, including C#, JavaScri
 
 ### My stats
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=tharinduhub&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub stats"/> -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=tharinduhub&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub stats"/> 11111-->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharinduhub&&layout=compact&theme=transparent" alt="languages"/>
 
 ### Wanna read my articles?
