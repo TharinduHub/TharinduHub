@@ -52,7 +52,6 @@ I am dedicated to continuous improvement, actively seeking opportunities for pro
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40px" margin="4px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px" margin="4px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40px" margin="4px"/>
- <img src="https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png" height="40px" margin="4px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40px" margin="4px"/>
 </p>
 <br/>
